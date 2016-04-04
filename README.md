@@ -16,7 +16,7 @@ Below are just a handful of some of the projects I worked on, most are in an unf
 |---|---|---|
 |[Moments](https://github.com/reissjohnson/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Facebook API, Apple Mapkit & TDD using XCTest, Quick & Nimble.|
 |[Github Viewer] (https://github.com/reissjohnson/github_clone)|An Angular JS SPA that uses the Github API to display information about Github users.|Node.js, Sinatra, Angular JS, TDD using Protractor & Karma.|
-|[Chitter] (https://github.com/reissjohnson/chitter-challenge)|A Sinatra based Twitter clone.|Ruby, Sinatra, TDD using Rspec & Capybara.|
+|[MakersBnB] (https://github.com/reissjohnson/makers-bnb)|A basic MVP version of AirBnb built with Ruby & Sinatra.|Ruby, Sinatra, TDD using Rspec & Capybara.|
 |[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, AWS, TDD using Rspec & Capybara.|
 
 #### General Skills
