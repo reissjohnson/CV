@@ -1,57 +1,57 @@
 ## Reiss Johnson 
 
-I am a young professional with a passion for technology & adventure.
-22 years old, Manchester. I got my first computer aged 6 and it went from there, my background is in photography & media however in autumn of 2015 I decided to learn to code. I love to help others to learn as well as learn myself, and by gaining my first role as a junior developer I hope to further my existing knowledge.
+- I am a young professional with a passion for technology & adventure.
+- 22 years old, Manchester. I got my first computer aged 6 and it went from there, my background is in photography & media. However in autumn of 2015, I decided to learn to code, as I wanted to be part of an industry that is ever-expanding & be able to secure a future for myself.
+- I love to help others to learn as well as learn myself, and by gaining my first role as a junior developer. I hope to further my existing knowledge.
 
 ## Skills
 
 #### Web Development
 
-I recently finished the Ronin program; a 16 week intense & fulltime web-dev bootcamp designed by Makers Academy. I learned the value of TDD, BDD, OOD, XP. I learnt how to work in an agile way, everyday was spent pair-programming mainly with Ruby but also with some Javascript frameworks.
+I recently finished the Ronin program. A 16 week intense & fulltime web-dev bootcamp designed by Makers Academy. I learned the value of TDD, BDD, OOD, XP. I learnt how to work in an agile way, everyday was spent pair-programming constantly building my skills. 
 
-Below are just a handful of some of the projects I worked on, now the course has ended my aim is to refactor & get these as finished as possible.
+Below are just a handful of some of the projects I worked on, most are in an unfinished state & now the course has ended my aim is to refactor & get these as finished as possible.
 
-|Project Name:|Description:|Technologies Used:|
+|Name:|Description:|Technologies Used:|
 |---|---|---|
-|[Moments](https://github.com/BjoernWagner/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Quick, Nimble, Apple Mapkit |
-|   |   |   |
-|   |   |   |
+|[Moments](https://github.com/reissjohnson/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Facebook API, Apple Mapkit & TDD using XCTest, Quick & Nimble.|
+|[Github Viewer] (https://github.com/reissjohnson/github_clone)|An Angular JS SPA that uses the Github API to display information about Github users.|Node.js, Sinatra, Angular JS, TDD using Protractor & Karma.|
+|[Chitter] (https://github.com/reissjohnson/chitter-challenge)|A Sinatra based Twitter clone.|Ruby, Sinatra, TDD using Rspec & Capybara.|
+|[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, AWS, TDD using Rspec & Capybara.|
 
-- Experience
-- Achievements
-- Evidence
+#### General Skills
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am an experienced photographer of 6 years, upon completing an extended dipolma in photography I went onto to work as an assistant in one of the most prestigious studios in Manchester. I then went on to work as a senior photographer & web content manager for one of the best independent streetwear & skateboard stores in the UK. These roles taught me a lot about communicating with people (whether it was clients or fellow employees) I also learned the value of teamwork within a company, as well as the importance of hitting deadlines.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy Ronin (December 2015 - March 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, BDD, Agile Methodologies & XP.
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Git, Github & dev workflow. Branching, pull requests, squirreling & creating/closing tickets.
+- The ability to solve a problem by breaking it down into it's individual parts.
+- Confidence in trying new technologies & learning new concepts.
+- I became an independent learner but also developed my existing knowledge of teamwork.
+- Ruby, Sinatra, Rails, Javascript, Node.js, Angular.js, Swift, Xcode.
+- Rspec, Capybara, Jasmine, Karma, Protractor, Quick & XCTest.
 
-#### Your University / College (start_date to end_date)
+#### Mid Cheshire College (September 2010 - June 2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- ED Photography
+- Triple Distinction
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+- **The Black Sheep Store Manchester** (August 2014 - November 2015)    
+Senior Photographer & Web Content Manager.
+- **SWS Agency** (December 2013 - July 2014)   
+Sales Agent/Brand Manager
+
+## Hobbies
+**Skateboarding** 
+- I am a skateboarder of 12 years, it has given me the ability to meet some amazing people in life as well as the chance to travel all over Europe.
+
+**Collecting Records**  
+- I spend some of my spare time buying records, my favourite genres are Disco, early House music & Hip-Hop.
+
