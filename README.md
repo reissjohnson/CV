@@ -8,7 +8,7 @@
 
 #### Web Development
 
-I recently finished the Ronin program. A 16 week intense & fulltime web-dev bootcamp designed by Makers Academy. I learned the value of TDD, BDD, OOD, XP. I learnt how to work in an agile way, everyday was spent pair-programming constantly building my skills. 
+I recently finished the Ronin program. A 16 week intense & fulltime web-dev bootcamp designed by Makers Academy. I learned the value of TDD, BDD, OOD, XP, working in an agile way, everyday was spent pair-programming constantly building my skills. 
 
 Below are just a handful of some of the projects I worked on, most are in an unfinished state & now the course has ended my aim is to refactor & get these as finished as possible.
 
