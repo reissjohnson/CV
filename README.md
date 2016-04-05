@@ -49,7 +49,7 @@ Senior Photographer & Web Content Manager.
 Sales Agent/Brand Manager
 
 ## Contact
-**Telephone**
+**Telephone**  
 07969996662  
 **Email**  
 reissjohnson@me.com
