@@ -1,4 +1,5 @@
 ## Reiss Johnson 
+[My Personal Blog] (https://aboatloadofcode.herokuapp.com)
 
 - I am a young professional with a passion for technology & adventure.
 - I am 22 years old & based in Manchester. My background is in photography & media, however in autumn of 2015, I decided to learn to code, as I wanted to be part of an industry that is ever-expanding & be able to secure a future for myself.
