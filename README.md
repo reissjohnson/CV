@@ -3,7 +3,7 @@
 - I am a young professional with a passion for technology & adventure.
 - I am 22 years old & based in Manchester. My background is in photography & media, however in autumn of 2015, I decided to learn to code, as I wanted to be part of an industry that is ever-expanding & be able to secure a future for myself.
 - I love to help others to learn as well as learn myself, and by gaining my first role as a junior developer. I hope to further my existing knowledge.
-- [My Personal Blog] (https://aboatloadofcode.herokuapp.com)
+[My Personal Blog] (https://aboatloadofcode.herokuapp.com)
 
 ## Skills
 
