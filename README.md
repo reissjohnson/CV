@@ -47,17 +47,17 @@ Senior Photographer & Web Content Manager.
 - **SWS Agency** (December 2013 - July 2014)   
 Sales Agent/Brand Manager
 
-## Contact
-**Telephone**  
-07969996662  
-
-**Email**  
-reissjohnson@me.com
-
 ## Hobbies
 **Skateboarding** 
 - I am a skateboarder of 12 years, it has given me the ability to meet some amazing people in life as well as the chance to travel all over Europe.
 
 **Collecting Records**  
 - I spend some of my spare time buying records, my favourite genres are Disco, early House music & Hip-Hop.
+
+## Contact
+**Telephone**  
+07969996662  
+
+**Email**  
+reissjohnson@me.com
 
