@@ -16,9 +16,9 @@ Below are just a handful of some of the projects I worked on, most are in an unf
 
 |Name:|Description:|Technologies Used:|
 |---|---|---|
-|[Moments](https://github.com/reissjohnson/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Facebook API, Apple Mapkit & TDD using XCTest, Quick & Nimble.|
-|[MakersBnB] (https://github.com/reissjohnson/makers-bnb)|A basic MVP version of AirBnb built with Ruby & Sinatra.|Ruby, Sinatra, TDD using Rspec & Capybara.|
-|[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, AWS, TDD using Rspec & Capybara.|
+|[Moments](https://github.com/reissjohnson/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Facebook API, Apple Mapkit, Firebase & TDD using XCTest, Quick & Nimble.|
+|[MakersBnB] (https://github.com/reissjohnson/makers-bnb)|A basic MVP version of AirBnb built with Ruby & Sinatra.|Ruby, Sinatra, Postgresql, TDD using Rspec & Capybara.|
+|[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, Postgresql, AWS, TDD using Rspec & Capybara.|
 
 #### General Skills
 
