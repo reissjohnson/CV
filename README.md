@@ -1,28 +1,28 @@
 ## Reiss Johnson 
 
 - I am a young professional with a passion for technology & adventure.
-- I am 22 years old & based in Manchester. My background is in photography & media, however in autumn of 2015, I decided to learn to code, as I wanted to be part of an industry that is ever-expanding & be able to secure a future for myself.
-- I love to help others to learn as well as learn myself, and by gaining my first role as a junior developer. I hope to further my existing knowledge.  
 
-[My Personal Blog] (https://aboatloadofcode.herokuapp.com)
+- Manchester based, my background is in photography & media however in Autumn of 2015, I decided to learn how to code. As I wanted to be part of an ever-expanding industry & secure a better future for myself. 
 
-## Skills
+- I love helping others to learn as well as constantly learning myself. After gaining my first role as a developer I am now looking for my second position which would enable me to further my existing knowledge.
 
-#### Web Development
+## Experience
 
-I recently finished the Ronin program. A 16 week intense & fulltime web-dev bootcamp designed by Makers Academy. I learned the value of TDD, BDD, OOD, XP, working in an agile way, everyday was spent pair-programming constantly building my skills. 
+#### Rails Developer - Createk - Manchester, UK ( June 2017 - Current )
 
-Below are just a handful of some of the projects I worked on, most are in an unfinished state & now the course has ended my aim is to refactor & get these as finished as possible.
+Alongside a small team I spend my days coding for an online incentive based rewards company. I am involved in all aspects of the development cycle, whether it be speccing or building features, running retrospectives, engaging with the customer, testing or deployments. 
 
-|Name:|Description:|Technologies Used:|
-|---|---|---|
-|[Moments](https://github.com/reissjohnson/moments)|A geolocation based IOS app that allows users to record significant events. My final project at Makers Academy.|Swift, Xcode, Facebook API, Apple Mapkit, Firebase & TDD using XCTest, Quick & Nimble.|
-|[MakersBnB] (https://github.com/reissjohnson/makers-bnb)|A basic MVP version of AirBnb built with Ruby & Sinatra.|Ruby, Sinatra, Postgresql, TDD using Rspec & Capybara.|
-|[Reisstagram] (https://github.com/reissjohnson/instagram-challenge)|An appropriately named Instagram clone.|Ruby, Rails, Postgresql, AWS, TDD using Rspec & Capybara.|
+#### Core Skills
 
-#### General Skills
-
-I am an experienced photographer of 6 years, upon completing an extended dipolma in photography I went onto to work as an assistant in one of the most prestigious studios in Manchester. I then went on to work as a senior photographer & web content manager for one of the best independent streetwear & skateboard stores in the UK. These roles taught me a lot about communicating with people (whether it was clients or fellow employees) I also learned the value of teamwork within a company, as well as the importance of hitting deadlines.
+- Object Orientated Design
+- Test Driven Development
+- Agile Methodologies (stand ups, retros, pair & mob programming, code reviews etc)
+- Implementing large features
+- Clean Code / Refactoring
+- JQuery / CSS
+- Relational Databases / SQL
+- Ruby / Ruby On Rails
+- Experience working with a large scale web application.
 
 ## Education
 
