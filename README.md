@@ -8,7 +8,7 @@
 
 ## Experience
 
-#### Rails Developer - Createk - Manchester, UK ( June 2017 - Current )
+#### Rails Developer - Createk - Manchester, UK ( June 2016 - Current )
 
 Alongside a small team I spend my days coding for an online incentive based rewards company. I am involved in all aspects of the development cycle, whether it be speccing or building features, running retrospectives, engaging with the customer, testing or deployments. 
 
@@ -22,7 +22,10 @@ Alongside a small team I spend my days coding for an online incentive based rewa
 - JQuery / CSS
 - Relational Databases / SQL
 - Ruby / Ruby On Rails
-- Experience working with a large scale web application.
+- Experience working with a large scale web application
+- Refactoring existing application code
+- Writing RESTful API’s
+- Managing daily deployments
 
 ## Education
 
